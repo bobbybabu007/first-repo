@@ -1,3 +1,3 @@
 # first-repo
 This is me doing my first commit
-Some code
+Adding file1 and file2
