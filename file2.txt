@@ -1,2 +1,3 @@
 file2
 2nd commit from dev-B
+2nd commit from dev-C
