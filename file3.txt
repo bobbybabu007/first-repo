@@ -1,4 +1,0 @@
-file3
-commit 3 from dev-b
-commit 3 from dev-c
-new commit to be moved to production
